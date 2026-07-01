@@ -1,0 +1,2 @@
+# Tensara
+solving tensara gpu problems while learning cuda, gpgpu, parallel programming, simt execution, memory hierarchies, kernel optimization, warp-level primitives, occupancy tuning, synchronization, and high-performance computing.
