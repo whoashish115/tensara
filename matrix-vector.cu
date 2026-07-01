@@ -27,7 +27,6 @@ __global__ void matvec_kernel(
     C[row] = sum;
 }
 
-// A, B, C are device pointers
 extern "C" void solution(
     const float* input_a,
     const float* input_b,
